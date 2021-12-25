@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jerry-Techie.
-- 👀 I’m interested in any kind of technical stuff.
-- 🌱 I’m currently learning Java,Javascript and DSA.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @KrishAggarwal.
+- 👀 I’m interested in Web Development, Java programming & Networking.
+- 🌱 I’m currently learning MERN STACK & DSA.
+- 💞️ I’m looking to collaborate on web development...
 - 📫 Contact me on kpaggarwal143@gmail.com
 
 <!---
